@@ -1,0 +1,11 @@
+[workspace]
+authors = ["dchou1618 <dchou5217@gmail.com>"]
+channels = ["conda-forge"]
+name = "aws-tuning-detection"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+boto3 = ">=1.42.25,<2"
