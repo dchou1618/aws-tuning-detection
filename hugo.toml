@@ -1,0 +1,3 @@
+baseURL = "https://dchou1618.github.io/aws-tuning-detection/"
+title = "AWS Tuning Detection"
+theme = "ananke"
