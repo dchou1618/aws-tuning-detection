@@ -4,4 +4,3 @@ title = "AWS Tuning Detection"
 [module]
   [[module.imports]]
     path = "github.com/theNewDynamic/gohugo-theme-ananke"
-    version = "main"
