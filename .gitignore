@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Hugo build output
+/public
+
+# Hugo cache
+/resources/_gen
+
+# Hugo lock file
+.hugo_build.lock
+
 # Distribution / packaging
 .Python
 build/
